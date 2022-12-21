@@ -1,0 +1,2 @@
+     Id_rfid  Nama_pasien
+0  219040787  Irgi Zanuar
